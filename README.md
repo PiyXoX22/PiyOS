@@ -1,6 +1,6 @@
 # PiyOS
 
-![PiyOS Logo](images/awal.png)
+![PiyOS](Screenshot 2026-01-11 093836.png)
 
 PiyOS adalah **mini operating system** yang dikembangkan dari nol dengan **kernel custom**, **VGA text mode / GUI minimal**, dan **mini GNU shell**. Sistem ini masih sederhana, cocok untuk belajar OS development dan kernel programming.  
 
