@@ -24,7 +24,7 @@ Silahkan lihat di gambar yang telah saya upload di github
 1. Ekstrak zip ke linux kalian (saya pakai debian)
 2. Masuk ke folder dengan cara
    ```bash
-   cd piyos`
+   cd piyos
  3.Lalu copas kode dibawah
  ```bash
- qemu-system-x86_64 -cdrom os.iso`
+ qemu-system-x86_64 -cdrom os.iso
