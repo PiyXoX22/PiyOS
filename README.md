@@ -25,6 +25,6 @@ Silahkan lihat di gambar yang telah saya upload di github
 2. Masuk ke folder dengan cara
    ```bash
    cd piyos`
-3.Lalu copas kode dibawah
-```bash
-qemu-system-x86_64 -cdrom os.iso`
+ 3.Lalu copas kode dibawah
+ ```bash
+ qemu-system-x86_64 -cdrom os.iso`
